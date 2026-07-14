@@ -9,7 +9,7 @@ A modern and responsive **Travel Vlog Website** built using **HTML5** and **Boot
 ### Demo Preview
 
 <p align="center">
-  <video src="." alt="Travel Vlog Demo" width="900">
+  <video src="./Screen%20Recording%202026-07-14%20183413.mp4" alt="Travel Vlog Demo" width="900">
 </p>
 
 ---
